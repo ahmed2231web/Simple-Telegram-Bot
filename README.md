@@ -130,9 +130,9 @@ Contributions are welcome! Here's how you can help:
 
 For questions, suggestions, or issues:
 - Create an issue in this repository
-- Contact [@yourusername](https://github.com/yourusername) on GitHub
+- Contact [@ahmed2231web](https://github.com/yourusername) on GitHub
 
 ---
 <div align="center">
-Made with ❤️ by [Ahmed]
+Made with ❤️ by Ahmed
 </div>
