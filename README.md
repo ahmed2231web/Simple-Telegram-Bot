@@ -4,7 +4,6 @@
 
 ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)
 ![Python](https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A powerful and user-friendly Telegram bot that handles images with style! Built with Python and ❤️
 
